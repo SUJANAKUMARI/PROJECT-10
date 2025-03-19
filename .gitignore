@@ -4,5 +4,8 @@ __pycache__/
 .DS_Store
 last.pt
 *.pt
+*.pt
+runs/mlflow/**/artifacts/weights/last.pt
+
 
 
