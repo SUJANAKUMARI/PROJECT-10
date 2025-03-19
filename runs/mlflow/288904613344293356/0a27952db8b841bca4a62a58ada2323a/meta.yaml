@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Sujana/Desktop/PRO/runs/mlflow/288904613344293356/0a27952db8b841bca4a62a58ada2323a/artifacts
+end_time: 1742180391500
+entry_point_name: ''
+experiment_id: '288904613344293356'
+lifecycle_stage: active
+run_id: 0a27952db8b841bca4a62a58ada2323a
+run_name: yolov3_train2
+run_uuid: 0a27952db8b841bca4a62a58ada2323a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742180101770
+status: 3
+tags: []
+user_id: Sujana

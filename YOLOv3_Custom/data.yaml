@@ -1,0 +1,8 @@
+train: C:/Users/Sujana/Desktop/PROJECT NEW 10/YOLOv3_Custom/images/train
+val: C:/Users/Sujana/Desktop/PROJECT NEW 10/YOLOv3_Custom/images/val
+
+nc: 4  # Number of classes
+names: ["TestName", "Value", "Units", "NormalRange"]
+
+
+
