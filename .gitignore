@@ -2,3 +2,7 @@ best.pt
 temp_image.jpg
 __pycache__/
 .DS_Store
+last.pt
+*.pt
+
+
