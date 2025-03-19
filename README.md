@@ -88,6 +88,7 @@ Here is the screenshot of the streamlit interface page.
 ![image](https://github.com/user-attachments/assets/8f90f6c7-a996-4fa9-a796-1af0517503b5)
 
 Here is the video of testing of the streamlit interface and how it gives the output.
+[Watch the video] https://github.com/SUJANAKUMARI/PROJECT-10/blob/main/Deployment%20screen%20recording.webm
 
 SCREENSHOT OF THE OUTPUTS
 ![image](https://github.com/user-attachments/assets/854dffa0-987a-4892-a08a-38bd4ce26d4b)
