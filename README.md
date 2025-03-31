@@ -96,6 +96,33 @@ SCREENSHOT OF THE OUTPUTS
 ![image](https://github.com/user-attachments/assets/d89c9260-ed4c-49e5-bca0-bdd2444a5f9e)
 ![image](https://github.com/user-attachments/assets/fda5ded7-a41e-41d3-b8bc-0f042d18d9b6)
 
+
+### Performance Metrics Explanation
+
+## PATH:  📂 YOLOv3_Custom/yolov3_train/results.csv
+
+During the training and evaluation of our YOLOv3 model, several key performance metrics were recorded to assess the model’s effectiveness in detecting and recognizing objects:
+
+## 1. Training & Validation Losses:
+train/box_loss & val/box_loss – Measures how accurately bounding boxes are predicted. Lower values indicate better performance.
+
+train/cls_loss & val/cls_loss – Represents classification loss, determining how well the model distinguishes different objects.
+
+train/dfl_loss & val/dfl_loss – Represents the Distribution Focal Loss, used to refine box regression.
+
+## 2. Detection Performance Metrics:
+metrics/precision(B) – Precision measures how many of the detected objects are actually correct (i.e., how precise the model is in detecting only relevant objects).
+
+metrics/recall(B) – Recall measures how many of the actual objects present in the image were correctly detected by the model.
+
+metrics/mAP50(B) – Mean Average Precision at 50% Intersection over Union (IoU) threshold. This is a standard metric in object detection, evaluating how well the model predicts bounding boxes.
+
+metrics/mAP50-95(B) – Mean Average Precision across different IoU thresholds (from 50% to 95%). A more comprehensive evaluation metric.
+
+## 3. Learning Rate Tracking:
+lr/pg0, lr/pg1, lr/pg2 – Represents the learning rates of different layers in the model, helping monitor how the optimizer updates the model during training.
+
+
 ## ACKNOWLEDGMENT:
 
 ## I would like to express my sincere gratitude to Ms. Twinkle Baid for her invaluable guidance and support throughout this project.
